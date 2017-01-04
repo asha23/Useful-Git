@@ -16,4 +16,5 @@ git push -u origin master
 ```
 git remote rm origin 
 git remote add origin https://username:mypassword@github.com/asha23/repo.git
+git push --set-upstream origin master
 ```
